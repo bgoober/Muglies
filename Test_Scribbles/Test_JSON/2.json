@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "navy blue"
+    },
+    {
+      "trait_type": "font",
+      "value": "red"
+    }
+  ],
+  "description": "Navy blue blue with red",
+  "name": "NBOR"
+}

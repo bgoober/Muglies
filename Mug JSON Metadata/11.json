@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Charcoal"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Cocoa"
+    }
+  ],
+  "description": "The eleventh ugly mug.",
+  "name": "Frank"
+}

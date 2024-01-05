@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Hot coffee"
+    }
+  ],
+  "description": "The second ugly mug.",
+  "name": "In the Pink"
+}

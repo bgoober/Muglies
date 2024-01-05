@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Hot Coffee"
+    }
+  ],
+  "description": "The eighth ugly mug.",
+  "name": "Square Space"
+}

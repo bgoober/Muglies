@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Punch"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Green tea"
+    }
+  ],
+  "description": "The sixth ugly mug.",
+  "name": "Cuppa Green"
+}

@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Light green"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Cold brew coffee"
+    }
+  ],
+  "description": "The third ugly mug.",
+  "name": "Kiwi"
+}

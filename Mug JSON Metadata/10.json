@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark green"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Spiced Chai"
+    }
+  ],
+  "description": "The tenth ugly mug.",
+  "name": "Sandy"
+}

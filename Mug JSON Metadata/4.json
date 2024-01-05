@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Coffee with cream"
+    }
+  ],
+  "description": "The fourth ugly mug.",
+  "name": "Ugg"
+}

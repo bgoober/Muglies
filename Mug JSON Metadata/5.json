@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Dark roast"
+    }
+  ],
+  "description": "The fifth ugly mug.",
+  "name": "Mountain Sigh"
+}

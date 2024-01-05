@@ -1,0 +1,14 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy blue"
+    },
+    {
+      "trait_type": "Drink",
+      "value": "Coffee with cream"
+    }
+  ],
+  "description": "The seventh ugly mug.",
+  "name": "Dottie"
+}
