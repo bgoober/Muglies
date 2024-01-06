@@ -2,13 +2,13 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Drab Green"
+      "value": "Dark"
     },
     {
       "trait_type": "Drink",
-      "value": "Coffee"
+      "value": "Blood"
     }
   ],
   "description": "The sixteenth ugly mug.",
-  "name": "Bamboozled"
+  "name": "The Assistant"
 }

@@ -2,13 +2,13 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Dark Red"
+      "value": "Drab Green"
     },
     {
       "trait_type": "Drink",
-      "value": "Black coffee"
+      "value": "Coffee"
     }
   ],
   "description": "The fifteenth ugly mug.",
-  "name": "The Fez"
+  "name": "Bamboozled"
 }

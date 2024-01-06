@@ -2,13 +2,13 @@
   "attributes": [
     {
       "trait_type": "Background",
-      "value": "Pink"
+      "value": "Dark Red"
     },
     {
       "trait_type": "Drink",
-      "value": "Hot coffee"
+      "value": "Black coffee"
     }
   ],
   "description": "The fourteenth ugly mug.",
-  "name": "Two in The"
+  "name": "The Fez"
 }
